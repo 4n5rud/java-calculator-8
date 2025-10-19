@@ -1,1 +1,8 @@
-# java-calculator-precourse
+# java-calculator-precourse - 4n5rud
+---
+
+### 기능 정리
+- 문자열을 입력 받는 기능
+- 문자열에서 커스텀 구분자를 구하는 기능
+- 문자열을 구분자로 나누는 기능
+- 나눈 문자열을 숫자로 변환하여 더한 결과를 출력하는 기능
